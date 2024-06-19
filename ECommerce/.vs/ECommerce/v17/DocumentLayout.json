@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\Project 2\\ECommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40CE7351-59C3-4F59-9275-F05075CE2A58}|ECommerce\\ECommerce.csproj|e:\\project 2\\ecommerce\\ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40CE7351-59C3-4F59-9275-F05075CE2A58}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE7351-59C3-4F59-9275-F05075CE2A58}|ECommerce\\ECommerce.csproj|e:\\project 2\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CE7351-59C3-4F59-9275-F05075CE2A58}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40CE7351-59C3-4F59-9275-F05075CE2A58}|ECommerce\\ECommerce.csproj|e:\\project 2\\ecommerce\\ecommerce\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40CE7351-59C3-4F59-9275-F05075CE2A58}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project 2\\ECommerce\\ECommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerce\\appsettings.json",
+              "ToolTip": "E:\\Project 2\\ECommerce\\ECommerce\\appsettings.json",
+              "RelativeToolTip": "ECommerce\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T12:39:05.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project 2\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Program.cs",
+              "ToolTip": "E:\\Project 2\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeToolTip": "ECommerce\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:17:24.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductContext.cs",
               "DocumentMoniker": "E:\\Project 2\\ECommerce\\ECommerce\\Data\\ProductContext.cs",
               "RelativeDocumentMoniker": "ECommerce\\Data\\ProductContext.cs",
               "ToolTip": "E:\\Project 2\\ECommerce\\ECommerce\\Data\\ProductContext.cs",
               "RelativeToolTip": "ECommerce\\Data\\ProductContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T09:35:42.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\Project 2\\ECommerce\\ECommerce\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ECommerce\\Models\\Product.cs",
@@ -47,8 +81,7 @@
               "RelativeToolTip": "ECommerce\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T10:20:41.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T10:20:41.959Z"
             }
           ]
         }
